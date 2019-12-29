@@ -8,7 +8,7 @@ class Index
      *
      */
     public function __construct() {
-        echo 'Instance of ' . __CLASS__ . ' is created.';
+        // Do some cool stuff here
     }
 
     /**
