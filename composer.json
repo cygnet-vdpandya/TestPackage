@@ -1,8 +1,8 @@
 {
     "name": "vidhyut/test-package",
     "description": "For test purpose only",
-    "type": "composer-plugin",
-    "license": "mit",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vidhyut Pandya",
