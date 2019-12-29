@@ -1,0 +1,17 @@
+{
+    "name": "vidhyut/test-package",
+    "description": "For test purpose only",
+    "type": "composer-plugin",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Vidhyut Pandya",
+            "email": "vidhyutpandya99@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Vidhyut\\TestPackage\\": "src/"}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
